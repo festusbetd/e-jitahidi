@@ -20,7 +20,3 @@ What things you need to install the software.
 ## Built With
 * [Laravel](https://laravel.com) - The PHP framework for building the API endpoints needed for the application
 * [Vue](https://vuejs.org) - The Progressive JavaScript Framework for building interactive interfaces
-
-## Acknowledgments
-* [Laravel](https://laravel.com) - The excellent documentation explaining how to get started with Laravel and Laravel Passport made it easy to provide a step by step guide for beginners to follow the application
-* [Vue](https://vuejs.org) - Concise documentation 
